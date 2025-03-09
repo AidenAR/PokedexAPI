@@ -1,0 +1,79 @@
+{
+  "f0bb22fe-35f0-4dba-8861-71220c8e4034": {
+    "id": "f0bb22fe-35f0-4dba-8861-71220c8e4034",
+    "name": "pikachu",
+    "type_": "electric",
+    "level": 1,
+    "hp": 100
+  },
+  "0666b693-6fb0-4c97-b6e1-95b16c03c63c": {
+    "id": "0666b693-6fb0-4c97-b6e1-95b16c03c63c",
+    "name": "squirtle",
+    "type_": "water",
+    "level": 1,
+    "hp": 100
+  },
+  "a69b1a9c-b708-4f39-9a52-f16b4e990ebc": {
+    "id": "a69b1a9c-b708-4f39-9a52-f16b4e990ebc",
+    "name": "palkia",
+    "type_": "water",
+    "level": 1,
+    "hp": 100
+  },
+  "be4333e7-9ffe-4f53-af54-14412200a437": {
+    "id": "be4333e7-9ffe-4f53-af54-14412200a437",
+    "name": "ditto",
+    "type_": "normal",
+    "level": 1,
+    "hp": 100
+  },
+  "30df8a75-25bc-460d-85b3-4de1f2f96cc6": {
+    "id": "30df8a75-25bc-460d-85b3-4de1f2f96cc6",
+    "name": "Charizard",
+    "type_": "Fire",
+    "level": 36,
+    "hp": 120
+  },
+  "e7867f4c-612e-4ab7-8cf9-a7d4ec5846b1": {
+    "id": "e7867f4c-612e-4ab7-8cf9-a7d4ec5846b1",
+    "name": "mewtwo",
+    "type_": "psychic",
+    "level": 1,
+    "hp": 100
+  },
+  "32ead283-e563-4bff-b23d-64429ff81ba3": {
+    "id": "32ead283-e563-4bff-b23d-64429ff81ba3",
+    "name": "lucario",
+    "type_": "fighting",
+    "level": 1,
+    "hp": 100
+  },
+  "19d62ded-4226-4f87-ad7a-544144124172": {
+    "id": "19d62ded-4226-4f87-ad7a-544144124172",
+    "name": "bulbasaur",
+    "type_": "grass",
+    "level": 1,
+    "hp": 100
+  },
+  "6fbea176-5129-4c95-af9a-dc4b2b65f9c8": {
+    "id": "6fbea176-5129-4c95-af9a-dc4b2b65f9c8",
+    "name": "piplup",
+    "type_": "water",
+    "level": 1,
+    "hp": 100
+  },
+  "ad7e44e9-8f39-4810-ad17-4853128b488e": {
+    "id": "ad7e44e9-8f39-4810-ad17-4853128b488e",
+    "name": "chimchar",
+    "type_": "fire",
+    "level": 1,
+    "hp": 100
+  },
+  "2d380083-56b6-4650-8ec4-6798036ed776": {
+    "id": "2d380083-56b6-4650-8ec4-6798036ed776",
+    "name": "charmander",
+    "type_": "fire",
+    "level": 1,
+    "hp": 100
+  }
+}
