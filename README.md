@@ -1,6 +1,6 @@
 # PokeDex API
 
-A RESTful API for managing Pokémon using [Axum](https://github.com/tokio-rs/axum). 
+A RESTful API in RUST for managing Pokémon using [Axum](https://github.com/tokio-rs/axum). 
 
 supports basic CRUD operations as well as fetching and storing data from the [PokéAPI](https://pokeapi.co/). 
 
