@@ -2,9 +2,16 @@
 
 A RESTful API in RUST for managing Pokémon using [Axum](https://github.com/tokio-rs/axum). 
 
-supports basic CRUD operations as well as fetching and storing data from the [PokéAPI](https://pokeapi.co/). 
+Supports CRUD operations as well as fetching and storing data from the [PokéAPI](https://pokeapi.co/). 
 
-All Pokémon data is persisted in a local JSON file, `pokemon_db.json` for now. -> the json file right now is populated with some tests I ran (see pics below)
+All Pokémon data is persisted in a local JSON file, `pokemon_db.json` for now. 
+-> the json file right now is populated with some tests I ran (see pics below)
+
+## Inspiration
+Played my 1st Nintendo DS Pokemon game - Pokemon Diamond back in  Christmas 2009. 
+-> there is anther funny story where my parents said I became potty trained during a pokemon marathon back in 2004/5 lol
+-> the games/tv show were pretty fun and led me to continue gaming with Pokemon Pearl, Pokemon SoulSilver (my personal fav), Black & White, Black and White 2, X and Y etc
+-> they all have a pokedex so why not make one in rust?
 
 ## Features
 - **Create, Read, Update, Delete** Pokémon in a file-based “database.”
