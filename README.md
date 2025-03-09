@@ -9,8 +9,11 @@ All Pokémon data is persisted in a local JSON file, `pokemon_db.json` for now.
 
 ## Inspiration
 Played my 1st Nintendo DS Pokemon game - Pokemon Diamond back in  Christmas 2009.
-1. there is anther funny story where my parents said I became potty trained during a pokemon marathon back in 2004/5 lol
-2. the games/tv show were pretty fun and led me to continue gaming with Pokemon Pearl, Pokemon SoulSilver (my personal fav), Black & White, Black and White 2, X and Y etc
+
+There is anther funny story where my parents said I became potty trained during a pokemon marathon back in 2004/5 lol
+
+The games/tv show were pretty fun and led me to continue gaming with Pokemon Pearl, Pokemon SoulSilver (my personal fav), Black & White, Black and White 2, X and Y etc
+
 They all have a pokedex so why not make one in rust?
 
 ## Features
