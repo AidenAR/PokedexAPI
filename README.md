@@ -1,4 +1,4 @@
-# PokeDex API
+# PokeDex API - Gotta Catch 'em All!
 
 A RESTful API in RUST for managing Pokémon using [Axum](https://github.com/tokio-rs/axum). 
 
@@ -89,7 +89,7 @@ The app uses Tokio to run async tasks, allowing multiple I/O-bound operations to
 When calling /fetch_all, each Pokémon fetch is spawned in a separate task, and results are awaited together.
 
 
-### Happy Pokémon Catching!
+### Happy Pokémon Catching! Gotta Catch 'em All!
 
 
 
