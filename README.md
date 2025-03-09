@@ -92,3 +92,21 @@ When calling /fetch_all, each Pokémon fetch is spawned in a separate task, and 
 ### Happy Pokémon Catching!
 
 
+
+## EXAMPLES:
+![Screenshot 2025-03-09 at 12 30 55 PM](https://github.com/user-attachments/assets/7dca5acd-61e2-4ce2-b225-4487079a6f72)
+
+![Screenshot 2025-03-09 at 12 26 20 PM](https://github.com/user-attachments/assets/00234f94-b0a8-441c-97b9-091ca8e66cbf)
+
+![Screenshot 2025-03-09 at 12 25 48 PM](https://github.com/user-attachments/assets/bfc1ba5d-6042-43b0-bcd6-c1c87443d0b8)
+
+![Screenshot 2025-03-09 at 12 11 50 PM](https://github.com/user-attachments/assets/2ff64eaf-e1e6-4f3f-bfcf-2c6edf51560b)
+
+![Screenshot 2025-03-09 at 12 11 29 PM](https://github.com/user-attachments/assets/51423549-9b6d-4a89-920c-1bb2bec98994)
+
+
+
+
+
+
+
