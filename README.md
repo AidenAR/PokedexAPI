@@ -4,7 +4,7 @@ A RESTful API in RUST for managing Pokémon using [Axum](https://github.com/toki
 
 supports basic CRUD operations as well as fetching and storing data from the [PokéAPI](https://pokeapi.co/). 
 
-All Pokémon data is persisted in a local JSON file, `pokemon_db.json` for now.
+All Pokémon data is persisted in a local JSON file, `pokemon_db.json` for now. -> the json file right now is populated with some tests I ran (see pics below)
 
 ## Features
 - **Create, Read, Update, Delete** Pokémon in a file-based “database.”
