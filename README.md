@@ -94,6 +94,9 @@ When calling /fetch_all, each Pokémon fetch is spawned in a separate task, and 
 
 
 ## EXAMPLES:
+
+![Screenshot 2025-03-09 at 1 41 33 PM](https://github.com/user-attachments/assets/311da5b3-9c13-4bf6-a820-53b305bca476)
+
 ![Screenshot 2025-03-09 at 12 30 55 PM](https://github.com/user-attachments/assets/7dca5acd-61e2-4ce2-b225-4487079a6f72)
 
 ![Screenshot 2025-03-09 at 12 26 20 PM](https://github.com/user-attachments/assets/00234f94-b0a8-441c-97b9-091ca8e66cbf)
